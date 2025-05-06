@@ -284,7 +284,7 @@ h4 {
     flex-direction: column;
     margin-bottom: 65px;
 }
-.banan{
+.get-started-whith-whirl{
     font-size: 42px;
     color: #1F1F1F;
 }
@@ -302,19 +302,19 @@ h4 {
     padding-bottom: 80px;
 
 }
-.ack{
+.get-started-whith-whirl-full{
     height: 370px;
     width: 1130px;
     background-color: #E6F7FF;
 }
-.cr{
+.get-started-whith-whirl-short{
     height: 258px;
     width: 480px;
     margin-left: 64px;
     margin-top: 64px;
     margin-bottom: 48px;
 }
-.ne{
+.lorem{
     height: 54px;
     width: 400px;
     margin-top: 21px;
@@ -327,17 +327,17 @@ h4 {
     padding: 6px 20px;
     border: none;
 }
-.ni{
+.two-spaces{
     column-gap: 36px;
     display: flex;
     font-family: "Inter", sans-serif;
     font-size: 13px;
     color: #1F1F1F;
 }
-.none{
+.stream-line{
     color: #0070A0;
 }
-.opt{
+.three-spaces{
     display: grid;
     grid-template-columns: repeat(4, auto);
     grid-template-rows: repeat(1, );
@@ -346,41 +346,41 @@ h4 {
       "content 👾 good footer ";
   }
   
-  .imus {
+  .low-whirl {
     grid-area: content;
     height: 216px;
     width: 432px;
   }
 
-  .bl1 {
+  .first-block {
     grid-area: 👾;
     height: 216px;
     width: 216px;
   }
   
-  .bl2 {
+  .second-block {
     grid-area: good;
     height: 216px;
     width: 216px;
   }
-  .bl3{
+  .third-block{
     grid-area: footer;
     height: 216px;
     width: 216px;
   }
 
-.lol{
+.last-sign-up{
     height: 72px;
     width: 180px;
 }
-.asus{
+.six-terms{
     font-family: "Inter", sans-serif;
     color: #626A72;
 } 
-.cunga{
+.line-ground{
     margin-top: 64px;
 }
-.arab{
+.big-space{
     display: flex;
     justify-content: space-between;
     margin-top: 36px;
@@ -388,7 +388,7 @@ h4 {
 .ram{
     margin-left: 20px;
 }
-.xex{
+.built-powered{
     line-height: 0.19;
 }
 .input{
