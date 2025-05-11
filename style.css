@@ -336,3 +336,9 @@ h6{
 .last-container-social a{
     margin-right: 20px;
 }
+.last-container-logo-links{
+    color: #0070A0;
+}
+.last-container-social{
+    padding: 20px;
+}
